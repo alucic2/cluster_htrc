@@ -1,7 +1,7 @@
 # Identification of main content in the works included in the HathiTrust Extracted Features dataset
 Code for clustering content of digitized pages of the works in the Hathi Trust Digital Library with the aim of separating main content of a work from paratextual elements.
 Reference: A. Lucic, R. Burke and J. Shanahan, "Unsupervised Clustering with Smoothing for Detecting Paratext Boundaries in Scanned Documents,"
-2019 ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2019, pp. 53-56, doi: 10.1109/JCDL.2019.00018.
+2019 ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2019, pp. 53-56, doi: 10.1109/JCDL.2019.00018. Paper is available [here](https://ieeexplore.ieee.org/abstract/document/8791148)
 
 ## Motivation for the development of this method
 This work started as part of the [Reading Chicago Reading project](https://dh.depaul.press/reading-chicago/) at DePaul University in 2018. Reading Chicago Reading project received the HathiTrust Research Center Advanced Collaborative computational support grant to explore a set of in copyright and out of copyright works related to the [One Book One Chicago](https://www.chipublib.org/one-book-one-chicago/) program that were included in the [Extracted Features](https://analytics.hathitrust.org/datasets) dataset. To be able to constraint the extraction of features from the main content only and exclude paratext (e.g. Table of Contents, Epilogue, Bibliography, Critical Introduction), we needed to know where the main content of a work begins and ends. Paratext boundaries are not a consistent metadata element that researchers can rely on. Even if such information exists in the accompanying metadata files, this information needs to be verified.
