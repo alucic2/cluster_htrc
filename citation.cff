@@ -1,23 +1,23 @@
 cff-version: 1.2.0 
-message: "If you use this code for your research, please cite the following." 
+message: If you use this code for your research, please cite the following.
 references:
 - type: conference-paper 
 authors:
-- family-names: "Lucic"
-  given-names: "Ana"
-  affiliation: "University of Illinois"
-- family-names: "Burke"
-  given-names:"Robin"
-  affiliation: "University of Colorado"
-- family-names: "Shanahan"
-  given-names: "John"
-  affiliation: "DePaul University"
-title: "Unsupervised Clustering with Smoothing for Detecting Paratext Boundaries in Scanned Documents" 
+- family-names: Lucic
+  given-names: Ana
+  affiliation: University of Illinois
+- family-names: Burke
+  given-names: Robin
+  affiliation: University of Colorado
+- family-names: Shanahan
+  given-names: John
+  affiliation: DePaul University
+title: Unsupervised Clustering with Smoothing for Detecting Paratext Boundaries in Scanned Documents
 year: 2019
-collection-title: "Proceedings of the ACM/IEEE Joint Conference on Digital Libraries" 
+collection-title: Proceedings of the ACM/IEEE Joint Conference on Digital Libraries
 collection-doi: 10.1109/JCDL45914.2019 
 conference:
-- name: "2019 ACM/IEEE Joint Conference on Digital Libraries (JCDL)" 
+- name: 2019 ACM/IEEE Joint Conference on Digital Libraries (JCDL) 
   city: Champaign 
   region: Illinois
   post-code: 61821
