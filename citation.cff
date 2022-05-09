@@ -1,6 +1,7 @@
-cff-version: 1.0.0 
+cff-version: 1.2.0 
 message: "If you use this code for your research, please cite the following." 
-references:- type: conference-paper 
+references:
+- type: conference-paper 
 authors:
 - family-names: "Lucic"
   given-names: "Ana"
@@ -16,7 +17,7 @@ year: 2019
 collection-title: "Proceedings of the ACM/IEEE Joint Conference on Digital Libraries" 
 collection-doi: 10.1109/JCDL45914.2019 
 conference:
-- name: 2019 ACM/IEEE Joint Conference on Digital Libraries (JCDL) 
+- name: "2019 ACM/IEEE Joint Conference on Digital Libraries (JCDL)" 
   city: Champaign 
   region: Illinois
   post-code: 61821
