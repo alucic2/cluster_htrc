@@ -10,6 +10,6 @@ This work developed as part of the [Reading Chicago Reading project](https://dh.
 ## Modeling paratext as the outlier of main work
 The conclusion of the work was that paratext elements lend themselves to being modeled as outliers of main work. As the amount of paratext increases in a volume, however, it is harder to establish the beginning and end of the main content. 
 ## Acknowledgment
-We thank HathiTrust Research Center for the Advanced Collaborative Support that this project received and for the use of the HathiTrust Research Data Capsule.
+We thank HathiTrust Research Center for the Advanced Collaborative Support grant and for the use of the HathiTrust Research Data Capsule.
 ## Future work
 We plan to continue developing this method to establish the upper bounds of accuracy with which paratext elements can be identified and excluded from digital files. We also plan to explore the degree to which different paratext elements lends themselves to being identified in a work using automated methods.
