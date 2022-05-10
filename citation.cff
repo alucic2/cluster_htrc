@@ -1,4 +1,4 @@
-cff-version: 1.0.0 
+cff-version: 1.2.0 
 message: "If you use this code for your research, please cite the following."
 references:
   - type: conference-paper 
@@ -26,4 +26,4 @@ references:
          date-end: 2019-06-06 
     start: 53
     end: 56
-    doi: 10.1109/JCDL.2019.00018
+    doi: 10.1109/JCDL.2019.0001
