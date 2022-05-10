@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: If you use this code for your research, please cite the following.
 references:
    - type: conference-paper 
-          authors:
+     authors:
               - family-names: Lucic
                 given-names: Ana
                 affiliation: University of Illinois
