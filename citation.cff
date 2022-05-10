@@ -5,13 +5,10 @@ references:
     authors:
        - family-names: Lucic
          given-names: Ana
-         affiliation: University of Illinois
        - family-names: Burke
          given-names: Robin
-         affiliation: University of Colorado
        - family-names: Shanahan
          given-names: John
-         affiliation: DePaul University
     title: "Unsupervised Clustering with Smoothing for Detecting Paratext Boundaries in Scanned Documents"
     year: 2019
     collection-title: "Proceedings of the ACM/IEEE Joint Conference on Digital Libraries"
