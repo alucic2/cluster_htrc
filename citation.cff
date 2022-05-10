@@ -1,19 +1,18 @@
 cff-version: 1.2.0 
 message: "If you use this code for your research, please cite the following."
-references:
-  - type: conference-paper 
-    authors:
+- type: conference-paper 
+  authors:
        - family-names: Lucic
          given-names: Ana
        - family-names: Burke
          given-names: Robin
        - family-names: Shanahan
          given-names: John
-    title: "Unsupervised Clustering with Smoothing for Detecting Paratext Boundaries in Scanned Documents"
-    year: 2019
-    collection-title: "Proceedings of the ACM/IEEE Joint Conference on Digital Libraries"
-    collection-doi: 10.1109/JCDL45914.2019 
-    conference:
+  title: "Unsupervised Clustering with Smoothing for Detecting Paratext Boundaries in Scanned Documents"
+  year: 2019
+  collection-title: "Proceedings of the ACM/IEEE Joint Conference on Digital Libraries"
+  collection-doi: 10.1109/JCDL45914.2019 
+  conference:
        - name: 2019 ACM/IEEE Joint Conference on Digital Libraries (JCDL) 
          city: Champaign 
          region: Illinois
@@ -21,6 +20,6 @@ references:
          country: USA
          date-start: 2019-06-02 
          date-end: 2019-06-06 
-    start: 53
-    end: 56
-    doi: 10.1109/JCDL.2019.00018
+  start: 53
+  end: 56
+  doi: 10.1109/JCDL.2019.00018
